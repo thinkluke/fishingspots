@@ -15,3 +15,5 @@ define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+
+This is a Git Update, this has taken like 2 weeks to setups
